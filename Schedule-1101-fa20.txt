@@ -1,20 +1,20 @@
 **[Syllabus] – [Assignments] – [Schedule]– [Brightspace (D2L)] - [Home]**  
 
- [Syllabus]:http://jacknorton.org/courses/world-history-1-1101-online-fa19/syllabus-world-history-1101-fall-2019/
- [Schedule]:http://jacknorton.org/courses/world-history-1-1101-online-fa19/schedule-world-history-1-fall-2019-online/
- [Assignments]:http://jacknorton.org/courses/world-history-1-1101-online-fa19/assignments-world-history-1-1101-online-fall-2019/
-[Brightspace (D2L)]:https://normandale.learn.minnstate.edu/
-[Home]:http://jacknorton.org/courses/world-history-1-1101-online-fa19/
+ [Syllabus]:
+ [Schedule]:
+ [Assignments]:
+ [Brightspace (D2L)]:https://normandale.learn.minnstate.edu/
+ [Home]:
 
 ### Schedule: World History 1101, Fall 2019# ##
 
-**Week 1, August 26-30**  
+**Week 1, August 24-27**  
 
 **Read or Screen**: 
 
-* ["Read this first" essay](http://jacknorton.org/courses/world-history-1-1101-online-fa19/read-this-first-1101-fall-2019/) ESSENTIAL for your success in this class.
+* ["Read this first" essay](https://jacknorton.org/courses/world-history-1-1101-online-fa19/read-this-first-1101-fall-2019/) ESSENTIAL for your success in this class.
 
-* [Check Please: Lesson One:](https://www.notion.so/normandale/Check-Please-93649b9d7a014bd2bdea6ee9f7eb3d4c) Read and Watch Videos*
+* [Check Please: Lesson One:](https://www.notion.so/normandale/Check-Please-93649b9d7a014bd2bdea6ee9f7eb3d4c) Read and Watch Videos
 
 * [Video intro to historical thinking](http://teachinghistory.org/historical-thinking-intro) 
 
@@ -22,7 +22,7 @@
 
 **Do**: Week 1 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 2, September 2-9**  
+**Week 2, August 31 - September 4**  
 
 **Read or Screen**:  
 
@@ -35,7 +35,8 @@
 
 **Do**:  Week 2  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 3,September 9-13**  
+**Week 3,September 8-11 [Note Monday is Labor Day]**  
+
 **Read or Screen**: _You will need your Star ID to log in to our Library Databases for these sources._ 
 
 * "Homo Sapiens Migrate from Africa." _Global Events: Milestone Events Throughout History._ Ed. Jennifer Stock. Vol. 1: Africa. Farmington Hills, MI: Gale, 2014. 7-10. Gale Virtual Reference Library. Web. 18 Aug. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3728000013&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=9d610cc938f62e227d9d4bbcfd1232ab)
@@ -59,7 +60,7 @@
 
 **Do**: Week 3 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 4, September 16-20**  
+**Week 4, September 14-18**  
 
 **Read or Screen**:  
 
@@ -77,7 +78,7 @@
 
 **Do:**  Week 4  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 5, September 23-27**  
+**Week 5, September 21-25**  
 
 **Read or Screen**: 
 
@@ -102,7 +103,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**: Week 5  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 6, September 30- October 4**  
+**Week 6, September 28- October 2**  
 
 **Read or Screen**: 
 
@@ -121,11 +122,11 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**: Week 6 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 7, October 7 - October 11**  
+**Week 7, October 5 - October 9**  
  
 **Read or Screen**: * [Met Museum Mauryan Collection](http://www.metmuseum.org/search-results#!/search?q=mauryan) Open at least ten images and note their commonalities and differences.
 
-* Selection from [Lysistrata](http://jacknorton.org/courses/world-history-1101-fall-2016/assignments-1101-fall-2016/lysistrata-reading/)
+* Selection from [Lysistrata](https://jacknorton.org/courses/world-history-1101-fall-2016/assignments-1101-fall-2016/lysistrata-reading/)
 
 * [Hellenistic Art](http://www.metmuseum.org/toah/hd/haht/hd_haht.htm) Read introductory text on web page and view slide show, reading captions on images. 
 
@@ -133,7 +134,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**:  Week 7 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 8, October 14-18 -- Note: Check Due Dates**  
+**Week 8, October 12-16 -- Students may turn in assignments early if they wish**  
 
 **Read or Screen**:  *  "Geography" _World Eras._ Ed. John T. Kirby. Vol. 3: Roman Republic and Empire, 264 B.C.E.- 476 C.E. Detroit: Gale, 2001. 396-398. Gale Virtual Reference Library. Web. 14 Sept. 2015. [Link](http://go.galegroup.com.ndcproxy.mnpals.net/ps/i.do?id=GALE%7CCX3034800233&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=f23a8e1cee5dde99f5c041e0f8c243f1)
 
@@ -151,7 +152,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**:  Week 8  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 9, October 21 - 25**  
+**Week 9, October 19 - 23**  
 
 **Read or Screen**:  * [Digital Augustan Rome: Read Mapping Augustan Rome, An Introduction & #247 on map "Circus Maximus"](http://digitalaugustanrome.org/)
 
@@ -161,7 +162,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**:  Week 9  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 10, October 28 - November 1**  
+**Week 10, October 26 - 30**  
 
 **Read or Screen**: 
 
@@ -177,7 +178,7 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 **Do**:  Week 10  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 11, November 4 - 9**  
+**Week 11, November 2 - 6**  
 
 **Read or Screen**: 
 
@@ -189,11 +190,12 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 * [Creation Myths in Mayan Society](http://ndcproxy.mnpals.net/login?url=http://dailylife2.abc-clio.com/Search/Display/1426455)
 
-* [Full text](http://jacknorton.org/wp-content/uploads/2016/08/LawsOfManu.txt) for to use for the assignment on the Law of Manu ***Do not read - we'll use it in Voyant**
+* [Full text](https://jacknorton.org/wp-content/uploads/2016/08/LawsOfManu.txt) for to use for the assignment on the Law of Manu **Do not read - we'll use it in Voyant**
 
 **Do**: Week 11  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 12, November 11 - 15**   
+**Week 12, November 9 - 13**   
+
 **Read or Screen**:   * [Early Maritime Contacts in India](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE|CX3446500196&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=be87b3c7f5e926b99a2cfd511f84b6fc)
 
 * [Silk Road](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE|CX3403702687&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=4b243f18020a00f89ae1d695dbc647f0)
@@ -204,13 +206,12 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 * [Reading and Organizing Quantitative History](http://historymatters.gmu.edu/mse/numbers/reading.html)
 
-* [Historical Statistics for the World Economy, 1-1500C.E](http://jacknorton.org/wp-content/uploads/2016/10/Historical-Statistics-for-the-World-Economy1_1500.xlsx) 
-
+* [Select Per Capita GDP World History Excel File](https://jacknorton.org/wp-content/uploads/2016/11/SelectCapitaGDP1_1500.xlsx) CORRECTED
 
 
 **Do**:  Week 12 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
 
-**Week 13, November 18 - 22** 
+**Week 13, November 16 - 20** 
 
 **Read or Screen**: 
 
@@ -224,12 +225,12 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 * [Chinese Trade: Medieval World](http://ndcproxy.mnpals.net/login?url=http://dailylife2.abc-clio.com/Search/Display/1425928?terms=trade)
 
-[Select Per Capita GDP World History Excel File](http://jacknorton.org/wp-content/uploads/2016/11/SelectCapitaGDP1_1500.xlsx)  
+* [Historical Statistics for the World Economy, 1-1500C.E](https://jacknorton.org/wp-content/uploads/2016/10/Historical-Statistics-for-the-World-Economy1_1500.xlsx) CORRECTED
 
 
-**Do**:  Week 13  opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz
+**Do**:  Week 13  opening quiz, [lab experiment 13](https://jacknorton.org/wp-content/uploads/2019/11/numbers_1_-assignment_1101-fa19.html), lab consultation, lab  reflection, closing quiz
 
-**Week 14, November 25 - 29: See due dates in D2L**  
+**Week 14, November 23 - 25: See due dates in D2L- Short week**  
 
 **Read or Screen**:   
 
@@ -239,23 +240,24 @@ Once you've had a chance to digest the clip of Sita Sings the Blues consider how
 
 * [Background on the Mongols](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3035200117&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=4e703def4d041c4723bb8eb7893d45c9) 
 
-**Do**: Week 14 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz. 
+**Do**: Week 14 opening quiz, [Lab Experiment 14](https://jacknorton.org/courses/world-history-1-1101-online-fa19/assignments-world-history-1-1101-online-fall-2019/experiment-14/), lab consultation, lab  reflection, closing quiz. 
 
-**Week 15, December 2 - 6**  
+**Week 15, Novemver 30 - December 4**  
 
 **Read or Screen**: * [Background on Mansa Musa](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3049000418&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=b984ce6eaef110727b169c373d06c629)
 
 * [Background on the Plague](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3623301440&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=8408c1edcec08d3a15afd3086702fa2a)
 
 * [Background on the Mongols](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?id=GALE%7CCX3035200117&v=2.1&u=mnanorman&it=r&p=GVRL&sw=w&asid=4e703def4d041c4723bb8eb7893d45c9) 
-**Do**:  Week 15 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz. 
+**Do**:  Week 15 opening quiz, [Lab Experiment 15](https://jacknorton.org/wp-content/uploads/2019/12/experiment15-1101.html), lab consultation, lab  reflection, closing quiz. 
 
-**Week 16, December 9 - 13**
+**Week 16, December 7 - 11**
 
 **Read or Screen**:  * ["Social Media as a Primary Source: A Coming of Age"](http://er.educause.edu/articles/2013/12/social-media-as-a-primary-source-a-coming-of-age)  
 
-* [Ballandus](https://ballandalus.wordpress.com): read the latest two posts.   
-**Do**:  Week 16 opening quiz, lab experiment, lab consultation, lab  reflection, closing quiz. 
+[Ballandus](https://ballandalus.wordpress.com): read the latest two posts.
+
+**Do**:  Week 16 opening quiz, [Lab Experiment 16](https://jacknorton.org/experiment-16-fall-19/). Note new due date, lab consultation, lab  reflection, closing quiz. 
 
 
 
